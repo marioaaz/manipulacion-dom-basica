@@ -236,6 +236,11 @@ $RECYCLE.BIN/
 Ejercicio1
 frontend-developer
 JS-Basic
+index.html
+script.js
+
+# Eitor
+.vscode
 
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,visualstudiocode,
